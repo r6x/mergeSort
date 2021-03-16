@@ -1,0 +1,9 @@
+﻿  mergerSort.cpp
+C:\Users\22\source\repos\mergerSort\mergerSort\mergerSort.cpp(42,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\22\source\repos\mergerSort\mergerSort\mergerSort.cpp(50,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\22\source\repos\mergerSort\mergerSort\mergerSort.cpp(76,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\22\source\repos\mergerSort\mergerSort\mergerSort.cpp(81,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\22\source\repos\mergerSort\mergerSort\mergerSort.cpp(106,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\22\source\repos\mergerSort\mergerSort\mergerSort.cpp(165,45): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\22\source\repos\mergerSort\mergerSort\mergerSort.cpp(184,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  mergerSort.vcxproj -> C:\Users\22\source\repos\mergerSort\Debug\mergerSort.exe
